@@ -1,2 +1,2 @@
 # Apple-navbar
-A simple navbar using HTML and CSS
+A simple responsive navbar using HTML and CSS.
